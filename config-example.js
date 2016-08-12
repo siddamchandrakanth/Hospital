@@ -1,6 +1,6 @@
 var config = {
   couchDbServer: 'localhost',
-  couchDbPort: '5984',
+  couchDbPort: '5984', 
   couchDbUseSsl: false,
   couchDbChangesSince: 'now',
   couchAdminUser: 'COUCH ADMIN USER GOES HERE',
